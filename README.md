@@ -416,6 +416,7 @@ Theoretical analysis suggests 2-3x improvements in inference throughput. For a d
 - Mixture-of-Depths Attention: https://arxiv.org/abs/2603.15619
 - Hyperloop Transformers: https://arxiv.org/abs/2604.21254
 - The Recurrent Transformer: Greater Effective Depth and Efficient Decoding: https://arxiv.org/abs/2604.21215
+- LT2: Linear-Time Looped Transformers: https://arxiv.org/pdf/2605.20670
 
 ---
 
